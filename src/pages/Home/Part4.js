@@ -14,7 +14,7 @@ import p11 from '../../images/asus.png'
 
 export default function Part4() {
     return (
-        <section className="mt-5  pb-5">
+        <section className="mt-5 pb-5">
             <div className="container mt-5 pt-5">
                 <h1 className="text-primary font-weight-bold">Sponsors</h1>
 

@@ -29,7 +29,6 @@ export default function Registration(props) {
                         )
                         })  }
                         
-                        {/*  */}
                     </ul>
                     <button className="btn btn-outline-primary mt-4 btn4 text-white"> JOIN NOW !</button>
 
